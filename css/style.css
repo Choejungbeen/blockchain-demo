@@ -242,7 +242,6 @@ ul {
 }
 
 ul li:before {
-  content: '-'; /* 대시(-) 추가 */
   position: absolute;
   margin-left: -15px; /* 대시와 텍스트 사이 간격 조정 */
 }
